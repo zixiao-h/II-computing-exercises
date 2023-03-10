@@ -2,4 +2,4 @@
 
 E1 - Driven pendulum\
 E2 - Integration\
-E3B - Diffraction\
+E3B - Diffraction
